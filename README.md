@@ -1,4 +1,4 @@
-# LDAM(Lable-Distribution-Aware Margin)
+# LDAM(Label-Distribution-Aware Margin)
 
 # TODO
 1. test code upload
